@@ -1,0 +1,70 @@
+/* h1{
+	color:red;
+} */
+#unique{
+	color:green;
+}
+.uni{
+	color:blue;
+}
+/** *{
+	color: yellow;
+} */
+strong, i {
+	color:pink;
+}
+#out .in{
+	color:purple;
+}
+
+#outt>.inn {
+	color: brown
+}
+p:hover{
+	color: navy;
+	text-decoration: underline;
+}
+
+span{
+	color: rgba(255,0,0,0.5);
+}
+.hexcolor {
+	color: #ff0000;
+}
+
+/* CSS Background */
+body{
+	background: url(https://img.freepik.com/free-vector/cloudy-watercolor-background_91008-459.jpg?w=740&t=st=1714821403~exp=1714822003~hmac=43c7c8043731db71d277cef8037f5bfe60d2b5f81b5d207ffec3fce9a1ff1570);
+	background-repeat: no-repeat;
+	background-size:cover;
+}
+/* CSS Border  2 ways */
+/* p{
+	border-width: 2ox 4px;
+	border-color:yellow;
+	border-style:dotted;
+	border-radius: 10px;
+} */
+/* p{
+	border: 2px dashed purple;
+	border-radius:  10%;
+} */
+p{
+	/* border-style: dashed;
+	border-color: blue;
+	border-width: 2px 3px; */
+
+	/* margin-top:30px;
+	margin-bottom: 30px;
+	margin-left: 20px;
+	margin-right: 20px; */
+
+	border: 2px dotted red;
+	margin: 30px;
+	padding: 50px;
+	
+	width: 50%;
+	height: 4000%;
+	
+
+}
